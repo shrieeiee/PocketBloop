@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+  <group android:scaleX="0.42" android:scaleY="0.42" android:translateX="12" android:translateY="10">
+    <!-- seashell hat -->
+    <path android:fillColor="#FFD1E0" android:strokeColor="#3B2B4F" android:strokeWidth="3.5" android:strokeLineJoin="round"
+        android:pathData="M76,56 Q100,14 124,56 Q100,62 76,56Z"/>
+    <path android:strokeColor="#3B2B4F" android:strokeWidth="2.5" android:strokeLineCap="round"
+        android:pathData="M100,56 V28 M90,57 L94,32 M110,57 L106,32"/>
+    <!-- body -->
+    <path android:fillColor="#6FD0DC" android:strokeColor="#3B2B4F" android:strokeWidth="4"
+        android:pathData="M100,52 C150,52 172,88 170,120 C168,152 140,164 100,164 C60,164 32,152 30,120 C28,88 50,52 100,52Z"/>
+    <group android:rotation="-28" android:pivotX="68" android:pivotY="84">
+      <path android:fillColor="#FFFFFF" android:fillAlpha="0.55" android:pathData="M55,84 a13,7 0 1,0 26,0 a13,7 0 1,0 -26,0 Z"/>
+    </group>
+    <path android:fillColor="#3B2B4F" android:pathData="M70.5,106 a7.5,9.5 0 1,0 15.0,0 a7.5,9.5 0 1,0 -15.0,0 Z"/>
+    <path android:fillColor="#3B2B4F" android:pathData="M114.5,106 a7.5,9.5 0 1,0 15.0,0 a7.5,9.5 0 1,0 -15.0,0 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M77.7,102 a2.8,2.8 0 1,0 5.6,0 a2.8,2.8 0 1,0 -5.6,0 Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M121.7,102 a2.8,2.8 0 1,0 5.6,0 a2.8,2.8 0 1,0 -5.6,0 Z"/>
+    <path android:fillColor="#FF6F9F" android:fillAlpha="0.5" android:pathData="M50,125 a10,5.5 0 1,0 20,0 a10,5.5 0 1,0 -20,0 Z"/>
+    <path android:fillColor="#FF6F9F" android:fillAlpha="0.5" android:pathData="M130,125 a10,5.5 0 1,0 20,0 a10,5.5 0 1,0 -20,0 Z"/>
+    <path android:strokeColor="#3B2B4F" android:strokeWidth="3.5" android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M91,122 Q100,131 109,122"/>
+  </group>
+</vector>

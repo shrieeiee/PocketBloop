@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.PocketBloop" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bloop_bg</item>
+        <item name="android:statusBarColor">@color/bloop_bg</item>
+        <item name="android:navigationBarColor">@color/bloop_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
